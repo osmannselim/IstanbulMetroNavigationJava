@@ -1,5 +1,4 @@
-/* Osman Selim Yuksel
-2021400105
+/* Osman Yuksel
 26.03.2023
 This code firstly reads the input file, collect and classify the data by using basic methods and arraylists. Secondly, the code checks if the input stations can be connected or not. If not, code handles the errors
 Otherwise, code finds the path by using recursive findWay method, which basically tries all the ways that can be possible to go from the starting station to all other stations in the map by visiting all neighbors af a station.
